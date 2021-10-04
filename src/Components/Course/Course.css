@@ -1,0 +1,7 @@
+.card-style {
+    transition: all .3s;
+}
+
+.card-style:hover {
+    transform: translatey(-20px);
+}
