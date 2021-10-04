@@ -11,7 +11,6 @@ const About = () => {
     },[])
     return (
         <div className="container">
-            <p>i am about</p>
             <h1 className="my-5 fw-bold fs-1">Our <span className="text-danger">Trainer</span></h1>
             <div className="row row-cols-1 row-cols-md-3 g-4">
             {
